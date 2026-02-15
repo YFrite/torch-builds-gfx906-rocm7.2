@@ -53,7 +53,7 @@ Name: gfx906
 
 You must have:
 
-* Linux (tested on Arch Linux and Ubuntu)
+* Linux (tested on Ubuntu 24)
 * **ROCm 7.2 runtime installed**
 * `amdgpu` kernel driver properly loaded
 * Compatible Python version (matching the wheel tag)
